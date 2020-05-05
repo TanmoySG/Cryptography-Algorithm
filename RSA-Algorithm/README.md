@@ -143,7 +143,7 @@ print("PlainText: ", decrypt(ct))
 
 The Encryption and Decryption mechanishm block diagram is shown below
 
-![RSA-Encryption-Decryption-block-diagram.png](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/RSA-Algorithm/diagrams/RSA-Encryption-Decryption-block-diagram.png)
+![RSA-Encryption-Decryption-block-diagram.png](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/RSA-Algorithm/diagrams/RSA-Encryption-Decryption-block-diagram.jpg)
 
 ## Explanation
 
