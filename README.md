@@ -1,2 +1,5 @@
-# RSA-Algorithm
-RSA (Rivest–Shamir–Adleman) is one of the first public-key cryptosystems and is widely used for secure data transmission. In such a cryptosystem, the encryption key is public and distinct from the decryption key which is kept secret (private).
+# Cryptography Algorithms
+
+This Repository has some of the Encryption/Decryption algorithms used in Cryptography.
+
+1. [**RSA Algorithm**](./RSA-Algorithm)
