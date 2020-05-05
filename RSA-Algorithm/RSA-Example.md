@@ -30,7 +30,7 @@ The Plain Text, M is generated from the ciphertext, C using the private key, d a
 
 **M = C<sup>d</sup> mod n**
 
-![RSA-block-diagram%20%281%29.png](attachment:RSA-block-diagram%20%281%29.png)
+![RSA-block-diagram%20%281%29.png](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/RSA-Algorithm/diagrams/RSA-block-diagram-image.png)
 
 ## Implementation of RSA using Python
 
