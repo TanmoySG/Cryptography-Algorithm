@@ -1,6 +1,5 @@
 # RSA Cryptography Algorithm
 
-## About RSA Algorithm
 RSA (Rivest–Shamir–Adleman) is one of the first public-key cryptosystems and is widely used for secure data transmission. In such a cryptosystem, the encryption key is public and distinct from the decryption key which is kept secret (private).
 
 ## Algorithm
@@ -30,4 +29,4 @@ The Plain Text, M is generated from the ciphertext, C using the private key, d a
 
 **M = C<sup>d</sup> mod n**
 
-![RSA-block-diagram%20%281%29.png](attachment:RSA-block-diagram%20%281%29.png)
+![RSA-block-diagram%20%281%29.png](attachment:RSA-block-diagram-image.png)
