@@ -29,4 +29,4 @@ The Plain Text, M is generated from the ciphertext, C using the private key, d a
 
 **M = C<sup>d</sup> mod n**
 
-![RSA-block-diagram%20%281%29.png](attachment:RSA-block-diagram-image.png)
+![RSA-block-diagram-image.png](attachment:RSA-block-diagram-image.png)
