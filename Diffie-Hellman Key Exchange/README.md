@@ -27,7 +27,7 @@ Generate **Key**, **K<sub>a</sub> & K<sub>b</sub>**  at both users' end. ***If k
 
 ***Note:*** The Private Key of a user is known only to that user and no other user has the access to it. While the Public Key of all the users are known to all the users in the network.
 
-![total.jpg](attachment:total.jpg)
+![RSA-block-diagram%20%281%29.png](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/Diffie-Hellman%20Key%20Exchange/diagrams/total.jpg)
 
 ## Key Generation
 
@@ -39,7 +39,7 @@ For User B, **K<sub>b</sub> = pubKey<sub>a</sub> <sup>pvtKey <sub>b</sub> </sup>
 
 If **K<sub>a</sub> = K<sub>b</sub>** then the **Key Exchange** is **Successful**. And The final secret key is ***K = K<sub>a</sub> = K<sub>b</sub>***
 
-![keyGen.jpg](attachment:keyGen.jpg)
+![keyGen.jpg](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/Diffie-Hellman%20Key%20Exchange/diagrams/keyGen.jpg)
 
 
 ```python
