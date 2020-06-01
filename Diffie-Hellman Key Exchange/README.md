@@ -185,9 +185,9 @@ else:
     Generate Key for B
     --- Enter B's Private Key: 207
     --- Key generated for B is 203
-    [32m
-    Key Exchange Successful![0m
-    [32m--- Your Key is 203[0m
+   
+    Key Exchange Successful!
+    --- Your Key is 203
     
 
 #### Tanmoy Sen Gupta
