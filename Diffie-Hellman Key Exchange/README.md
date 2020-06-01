@@ -8,7 +8,7 @@ Diffie-Hellman, uses Asymetric Key cryptography to communicate the Key securely 
 ## Algorithm
 
 1. Select a random prime number, **q**
-2. Calculate primRoot, such that, primRoot is the **Primitive Root of q** and primRoot > q
+2. Calculate **primRoot**, such that, primRoot is the **Primitive Root of q** and primRoot > q
 3. **For User A:**
     1. Select **Private Key** , **pvtKey<sub>a</sub>**, such that pvtKey<sub>a</sub> < q
     2. Calculate **Public Key**, **pubKey<sub>a</sub> = primRoot<sup>pvtKey<sub>a</sub></sup> mod q**
