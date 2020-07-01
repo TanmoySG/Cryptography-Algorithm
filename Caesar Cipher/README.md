@@ -39,7 +39,7 @@ where,
 
 **k** is the *key*
 
-![CaesarsEnc.jpg](attachment:CaesarsEnc.jpg)
+![CaesarsEnc.jpg](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/Caesar%20Cipher/CaesarsEnc.jpg)
 
 ## Decryption
 
@@ -62,7 +62,7 @@ where,
 
 **k** is the *key*
 
-![CaesarDec.jpg](attachment:CaesarDec.jpg)
+![CaesarDec.jpg](https://github.com/TanmoySG/Cryptography-Algorithm/blob/master/Caesar%20Cipher/CaesarDec.jpg)
 
 ## Implementation of Caesar Cipher using Python
 
